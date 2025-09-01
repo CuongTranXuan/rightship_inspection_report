@@ -1,0 +1,22 @@
+OPENAI-BASED DEFICIENCY RISK CLASSIFICATION REPORT
+Model: gpt-4o-mini
+Training Examples: 5
+Deficiency 1: High Risk
+Description: Location of emergency installations. Not as required.
+Reasoning: The deficiency involves emergency installations that do not comply with safety requirements, which could lead to immediate danger in emergency situations. The failure of emergency stop switches, especially in a marine environment, poses a significant risk to safety and could result in vessel detention if not addressed promptly.
+--------------------------------------------------
+Deficiency 2: Medium Risk
+Description: The loading computer used for Stability Calculation was not approved by the RO.
+Reasoning: The loading computer not being approved by the RO poses a compliance issue that could affect the vessel's stability calculations, which are critical for safe operations. While it does not present an immediate danger, it requires prompt attention to ensure compliance with regulations and to prevent potential safety risks.
+--------------------------------------------------
+Deficiency 3: Medium Risk
+Description: Alarms/Emergency Signal - At the engine room, Four light alarms signal columns, Found with 
+one light not working each one.
+Reasoning: The failure of one light in the alarm signal column indicates a deficiency in the emergency signaling system, which is important for safety. While it does not pose an immediate danger, it requires prompt attention to ensure all alarms are operational and compliant with safety standards.
+--------------------------------------------------
+SUMMARY:
+  High Risk: 1 deficiencies
+  Medium Risk: 2 deficiencies
+  Low Risk: 0 deficiencies
+
+Estimated API Cost: ~$0.03

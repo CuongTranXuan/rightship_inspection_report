@@ -1,0 +1,10 @@
+# Core dependencies for OpenAI-based classification
+pypdf==6.0.0
+pandas==2.3.2
+openpyxl==3.1.5
+openai==1.102.0
+
+# Optional: For traditional ML comparison
+scikit-learn==1.7.1
+numpy==2.3.2
+requests==2.32.3

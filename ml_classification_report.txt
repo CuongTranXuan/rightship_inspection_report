@@ -1,0 +1,22 @@
+DEFICIENCY RISK CLASSIFICATION REPORT
+Deficiency 1: Medium
+Description: Location of emergency installations. Not as required.
+Rule-based prediction: Medium
+Confidence: 0.78
+--------------------------------------------------
+
+Deficiency 2: Medium
+Description: The loading computer used for Stability Calculation was not approved by the RO.
+Rule-based prediction: Medium
+Confidence: 0.77
+--------------------------------------------------
+
+Deficiency 3: Medium
+Description: Alarms/Emergency Signal - At the engine room, Four light alarms signal columns, Found with 
+one light not working each one.
+Rule-based prediction: High
+Confidence: 0.80
+--------------------------------------------------
+
+SUMMARY:
+Medium Risk: 3 deficiencies
